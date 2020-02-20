@@ -8,17 +8,19 @@ summary: How to get assistance from the ARCHER2 Helpdesk
 
 The ARCHER2 Helpdesk is the first point of contact for all questions relating to the ARCHER2 Service. Support is available Monday to Friday from 08:00 until 18:00, excluding UK public holidays. The ARCHER2 Helpdesk can be reached by:
 
--     Email support@archer2.ac.uk
--     via ARCHER SAFE https://www.archer.ac.uk/safe
--     phone: +44 (0)131 650 5000
--     if the above number unavailable due to University of Edinburgh switchboard issues, please use +44(0)131 618 8313
--     By post, to:
+- Email support@archer2.ac.uk
+- via ARCHER SAFE https://www.archer.ac.uk/safe
+- phone: +44 (0)131 650 5000
+- if the above number unavailable due to University of Edinburgh switchboard issues, please use +44(0)131 618 8313
+- By post, to:
 
-        ARCHER2 Helpdesk
-        EPCC
-        Bayes Centre
-        47 Potterrow
-        Edinburgh EH8 9BT
+```
+ARCHER2 Helpdesk
+EPCC
+Bayes Centre
+47 Potterrow
+Edinburgh EH8 9BT
+```
 
 Please try and provide as much background information as possible as this will speed up the processing time considerably. Existing ARCHER2 users will be asked for their user ID, project code, and, where applicable, the commands they are using and the error message they get.
 
