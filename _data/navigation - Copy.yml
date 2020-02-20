@@ -31,7 +31,7 @@
     url: "/about/gallery/"
   
 
-- title: "Getting Access"
+- title: "Get Access"
   url: "/access/"
   side: left
   sublinks:
@@ -46,7 +46,7 @@
   
 
 
-- title: "Help and Support"
+- title: "User Support"
   url: "/support/"
   side: left
   sublinks:
@@ -74,7 +74,17 @@
     url: "/documentation/best-practice-guide"
   
 
- 
+- title: "Service Status"
+  url: "/status/"
+  side: left
+  sublinks:
+  - title: "Service Status"
+    url: "/status/"
+  - title: "Maintenance"
+    url: "/status/maintenance"
+  - title: "Application Usage"
+    url: "/status/codes"
+  
 
 - title: Training
   url: "/training/"
@@ -101,27 +111,6 @@
   - title: "Feedback"
     url: "/training/feedback/"
   
-  
-- title: "eCSE"
-  url: "/ecse/"
-  side: left
-  sublinks:
-  - title: "Service Status"
-    url: "/status/"
-  - title: "Maintenance"
-    url: "/status/maintenance"
-  - title: "Application Usage"
-    url: "/status/codes"
-    
-    
-- title: "Engagement"
-  url: "/engagement/"
-  side: left
-  sublinks:
-  - title: "Service Status"
-    url: "/status/"
-  - title: "Maintenance"
-    url: "/status/maintenance"
-  - title: "Application Usage"
-    url: "/status/codes"
+
+
 
