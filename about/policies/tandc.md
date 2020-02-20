@@ -4,7 +4,7 @@ title: Term and Conditions
 summary: Terms and Conditions of access
 ---
 
-# Terms and Conditions #
+# Terms and Conditions 
 
 These Terms and Conditions of Access are presented to each user when they register. We anticipate that they will change rarely, if at all. Note that the Terms and Conditions include an undertaking to observe the Code of Conduct. It also includes an agreement to the Service processing the user's personal data; in return, the Service undertakes to follow the Personal Data and Privacy Policy.
 
@@ -50,4 +50,4 @@ Before accepting the Terms and Conditions, please note: you can change any of th
 
 These Terms and Conditions are governed by the laws of England and the English courts.
 
-If you have any questions about these Terms and Conditions, please mail to the[ ARCHER2 Helpdesk](./support/helpdesk).
+If you have any questions about these Terms and Conditions, please mail to the[ ARCHER2 Helpdesk](../support/helpdesk).

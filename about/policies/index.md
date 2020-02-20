@@ -4,7 +4,7 @@ title: About ARCHER2
 summary: Information about the ARCHER2 facility
 ---
 
-# ARCHER2 Service Policies #
+# ARCHER2 Service Policies 
 
 These policies form an integrated whole, based on the Terms and Conditions of Access. They lay down both what we expect from Users, and how we will carry out the commitments we make to them in the Terms and Conditions.
 

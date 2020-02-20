@@ -4,7 +4,7 @@ title: Privacy Statement
 summary: Privacy Statement
 ---
 
-# Privacy Statement #
+# Privacy Statement 
 
 Information about you: how we use it and with whom we share it
 
