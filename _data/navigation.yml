@@ -106,22 +106,23 @@
   url: "/ecse/"
   side: left
   sublinks:
-  - title: "Service Status"
-    url: "/status/"
-  - title: "Maintenance"
-    url: "/status/maintenance"
-  - title: "Application Usage"
-    url: "/status/codes"
+  - title: "Embedded CSE (eCSE) support"
+    url: "/ecse/"
+  - title: "eCSE Call"
+    url: "/ecse/call"
+  - title: "eCSE list of projects funded"
+    url: "/ecse/projects"
     
     
 - title: "Engagement"
   url: "/engagement/"
   side: left
   sublinks:
-  - title: "Service Status"
-    url: "/status/"
-  - title: "Maintenance"
-    url: "/status/maintenance"
-  - title: "Application Usage"
-    url: "/status/codes"
-
+  - title: "Engagement"
+    url: "/engagement/"
+  - title: "Community"
+    url: "/community/"
+  - title: "Outreach"
+    url: "/outreach/"
+  - title: "Impact"
+    url: "/impact/"
