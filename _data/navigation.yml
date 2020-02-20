@@ -1,0 +1,154 @@
+- title: Start
+  url: "/"
+  side: left
+  
+
+- title: "About ARCHER2"
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "About ARCHER2"
+    url: "/about/"
+  - title: "News & Events"
+    url: "/about/news/"
+  - title: "Calendar"
+    url: "/about/calendar/"
+  - title: "Blog Articles"
+    url: "/about/blog/"
+  - title: "Hardware"
+    url: "/about/hardware/"
+  - title: "Software"
+    url: "/about/software/"
+  - title: "Service Policies"
+    url: "/about/policies/"
+  - title: "Service Reports"
+    url: "/about/reports/"
+  - title: "Partners"
+    url: "/about/partners/"
+  - title: "People"
+    url: "/about/people/"
+  - title: "Media Gallery"
+    url: "/about/gallery/"
+  
+
+- title: "Get Access"
+  url: "/access/"
+  side: left
+  dropdown:
+  - title: "Get Access"
+    url: "/access/"
+  - title: "TA Form and Notes"
+    url: "/access/ta/"
+  - title: "kAU Calculator"
+    url: "/access/au-calculator/"
+  - title: "Cost of Access"
+    url: "/access/cost/"
+  
+
+
+- title: "User Support"
+  url: "/support/"
+  side: left
+  dropdown:
+  - title: "User Support"
+    url: "/support/"
+  - title: "Helpdesk"
+    url: "/support/helpdesk/"
+  - title: "Frequently Asked Questions"
+    url: "/support/faq/"
+  
+
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "User Guides & Documentation"
+    url: "/documentation/"
+  - title: "Essential Skills"
+    url: "/documentation/essential-skills"
+  - title: "Quick Start Guide"
+    url: "/documentation/getting-started"
+  - title: "ARCHER User Guide"
+    url: "/documentation/user-guide"
+  - title: "ARCHER Best Practice Guide"
+    url: "/documentation/best-practice-guide"
+  
+
+- title: "Service Status"
+  url: "/status/"
+  side: left
+  dropdown:
+  - title: "Service Status"
+    url: "/status/"
+  - title: "Maintenance"
+    url: "/status/maintenance"
+  - title: "Application Usage"
+    url: "/status/codes"
+  
+
+- title: Training
+  url: "/training/"
+  side: left
+  dropdown:
+  - title: "Training"
+    url: "/training/"
+  - title: "Online Training"
+    url: "/training/online/"
+  - title: "Driving Test"
+    url: "/training/driving_test/"
+  - title: "Training Registration"
+    url: "/training/registration/"
+  - title: "Course Descriptions"
+    url: "/training/courses/"
+  - title: "Virtual Tutorials and Webinars"
+    url: "/training/virtual/"
+  - title: "Training Locations"
+    url: "/training/locations/"
+  - title: "Training Personnel"
+    url: "/training/people/"
+  - title: "Training Materials Repository"
+    url: "/training/past_courses/"
+  - title: "Feedback"
+    url: "/training/feedback/"
+  
+
+- title: Template stuff
+  url: "/getting-started/"
+  side: left
+  dropdown:
+  - title: "Grid & Colors"
+    url: "/design/grid/"
+  - title: "Typography"
+    url: "/design/typography/typography/"
+  - title: "Page/Post"
+    url: "/design/page/"
+  - title: "Post-Left-Sidebar"
+    url: "/design/post-left-sidebar/"
+  - title: "Post-Right-Sidebar"
+    url: "/design/post-right-sidebar/"
+  - title: "Page Full-Width"
+    url: "/design/page-fullwidth/"
+  - title: "Blog-Page"
+    url: "/blog/"
+  - title: "Video"
+    url: "/design/video/"
+  - title: "Gallery"
+    url: "/design/gallery/"
+  - title: "Portfolio"
+    url: "/design/portfolio/"
+  - title: "Header with Full-Width-Image"
+    url: "/design/header-full-width-image/"
+  - title: "Header with Image and Pattern"
+    url: "/design/header-image-pattern/"
+  - title: "Header with image and color"
+    url: "/design/header-image-color/"
+  - title: "Header Only With Logo"
+    url: "/design/header-logo-only/"
+  - title: "Header With Text"
+    url: "/design/header-with-text/"
+  - title: "No Header"
+    url: "/design/no-header/"
+  - title: "No Header but Image"
+    url: "/design/no-header-but-image/"
+
+
