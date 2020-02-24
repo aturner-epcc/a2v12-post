@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: section
 ---
 
 # ARCHER2 Service Policies 
