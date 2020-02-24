@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: section
 title: Term and Conditions
 summary: Terms and Conditions of access
 ---
