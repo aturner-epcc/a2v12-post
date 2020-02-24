@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: section
 title: Helpdesk
 summary: How to get assistance from the ARCHER2 Helpdesk
 ---
@@ -14,13 +14,13 @@ The ARCHER2 Helpdesk is the first point of contact for all questions relating to
 - if the above number unavailable due to University of Edinburgh switchboard issues, please use +44(0)131 618 8313
 - By post, to:
 
-```
-ARCHER2 Helpdesk
-EPCC
-Bayes Centre
-47 Potterrow
+
+> ARCHER2 Helpdesk  
+EPCC  
+Bayes Centre  
+47 Potterrow  
 Edinburgh EH8 9BT
-```
+
 
 Please try and provide as much background information as possible as this will speed up the processing time considerably. Existing ARCHER2 users will be asked for their user ID, project code, and, where applicable, the commands they are using and the error message they get.
 
@@ -32,4 +32,4 @@ When you email your query, you will normally get an automatic acknowledgement by
 
 The expert may contact you to discuss your problem or to get extra information. Finally, the expert will send you an answer, and the query will be closed. At this point the helpdesk will send you another message, telling you that this has happened.
 
-Closed queries are kept in the SAFE database, so that we can refer back to them when solving future problems, and when writing documentation, etc. The SAFE database is protected by [ARCHER Personal Data and Privacy Policy](../../privacy.html). 
+Closed queries are kept in the SAFE database, so that we can refer back to them when solving future problems, and when writing documentation, etc. The SAFE database is protected by [ARCHER Personal Data and Privacy Policy]({{ site.url }}{{ site.baseurl }}/policy/privacy.html). 
