@@ -14,5 +14,5 @@ summary: Training
 * Virtual Tutorials and Webinars
 * Training Locations
 * Training Personnel
-* [Training Materials Repository]({{ site.url }}{{ site.baseurl }}/training/materials.html)
+* [Training Materials Repository]({{ site.url }}{{ site.baseurl }}/training/materials/)
 * Feedback
