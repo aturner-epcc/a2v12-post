@@ -16,3 +16,75 @@ summary: Training
 * Training Personnel
 * [Training Materials Repository]({{ site.url }}{{ site.baseurl }}/training/materials/)
 * Feedback
+
+## Upcoming Training
+
+The list below shows the currently scheduled ARCHER2 courses. Please follow the links in the list to find out more about the courses and to register.
+
+If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the ARCHER helpdesk.
+
+### Upcoming Courses
+
+Individual links to course provide more details on the content and prerequisites. Click Register to sign up for a particular course.
+
+
+| Course | Venue | Dates | Register |
+|---     | ---   | ---   | ---      |
+| Package Use on ARCHER2	| | |	|
+| Introduction to Package A (LAMMPS)	A		| | | |
+| Introduction to Package B (CP2K)		| | | |
+| Introduction to Package C (Code Saturne)	P		| | | |
+| Introduction to Package D (Unified Model)		| | | |
+| Data Science on ARCHER2		| | | |
+| Development on ARCHER2		| | | |
+| HPC Carpentry	P?		| | | |
+| Data Carpentry	P		| | | |
+| Software Carpentry	P		| | | |
+| Understanding Package Performance	P		| | | |
+| Data Analysis using Python		| | | |
+| Containers for HPC	P		| | | |
+| Data Analytics with HPC	P		| | | |
+| Message Passing Programming with MPI	P		| | | |
+| Shared Memory Programming with OpenMP	P		| | | |
+| Virtual Tutorials		| | | |
+| Advanced Use of Package A	P		| | | |
+| Efficient Parallel IO	P		| | | |
+| Performance Optimisation on AMD EPYC	P		| | | |
+| Performance Analysis Workshop
+
+
+
+The following courses are provisional and details of dates and locations may be subject to change.
+Once all details are finalised, the course will be moved up to the confirmed section above and registration opened.
+
+Courses marked with † are fully booked but please complete the registration form to be added to the waiting list.
+
+Details of the software you should have installed, in preparation for any of our courses, is listed on our software page.
+
+When registering for one of our courses you agree to abide by our Training Code of Conduct.
+Eligibility for training
+
+ARCHER courses are free to all academics.
+
+Courses marked PRACE are also funded by PRACE and are free to everyone including commercial attendees.
+
+For all other courses we normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the ARCHER Training Administrator.
+Training updates mailing list
+
+If you would like to receive updates about our training by email please subscribe to our mailing list.
+
+Mailings will be sent approximately 2-4 times per month, your details will not be shared and you can unsubscribe at any time.
+Online Training
+
+Much of the ARCHER training material is available online. In particular, this includes material relevant to the ARCHER Driving Test
+
+On Successful completion of the ARCHER Driving Test you will be invited to apply for an account on ARCHER with 1200 kAUs (80,000 core-hours) to use over 12 months, enabling you to put your skills into practice.
+Other Training
+
+    EPCC MSc in High Performance Computing
+    Software Sustainability Institute - Guides
+    Software Sustainability Institute - Top Tips
+
+Support for training on ARCHER
+
+We are able to offer support and asistance for external training on ARCHER: Find out how we can help and how to let us know what you are planning at our External courses page.
