@@ -15,4 +15,4 @@ These policies form an integrated whole, based on the Terms and Conditions of Ac
 * Policy on end of life procedures for ARCHER user accounts and projects
 * Website accessibility
 * Diversity and Inclusion
-* ARCHER Training Code of Conduct
+* [ARCHER Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)

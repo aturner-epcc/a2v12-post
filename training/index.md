@@ -27,9 +27,15 @@ If you would like us to provide a course on a particular topic and/or in a parti
 
 Individual links to course provide more details on the content and prerequisites. Click Register to sign up for a particular course.
 
-
 | Course | Venue | Dates | Register |
 |---     | ---   | ---   | ---      |
+| No confirmed courses 	| | |	|
+
+The following courses are provisional and details of dates and locations may be subject to change.
+Once all details are finalised, the course will be moved up to the confirmed section above and registration opened.
+
+| Course | Venue | Dates | 
+|---     | ---   | ---   | 
 | Package Use on ARCHER2	| | |	|
 | Introduction to Package A (LAMMPS)	A		| | | |
 | Introduction to Package B (CP2K)		| | | |
@@ -54,14 +60,11 @@ Individual links to course provide more details on the content and prerequisites
 
 
 
-The following courses are provisional and details of dates and locations may be subject to change.
-Once all details are finalised, the course will be moved up to the confirmed section above and registration opened.
-
 Courses marked with † are fully booked but please complete the registration form to be added to the waiting list.
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our software page.
 
-When registering for one of our courses you agree to abide by our Training Code of Conduct.
+When registering for one of our courses you agree to abide by our [Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/policies/training.html).
 Eligibility for training
 
 ARCHER courses are free to all academics.
