@@ -8,9 +8,9 @@ summary: Information about the ARCHER2 facility
 
 
 * News and Events
-* [Calendar](({{ site.url }}{{ site.baseurl }}/about/calendar.html)
+* [Calendar]({{ site.url }}{{ site.baseurl }}/about/calendar.html)
 * Blog Articles
-* [Hardware](({{ site.url }}{{ site.baseurl }}/about/hardware.html)
+* [Hardware]({{ site.url }}{{ site.baseurl }}/about/hardware.html)
 * Software
 * [Service Policies]({{ site.url }}{{ site.baseurl }}/about/policies)
 * Service Reports
