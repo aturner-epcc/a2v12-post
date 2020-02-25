@@ -12,11 +12,21 @@ ul {
   list-style: square;
 }
 
-ul ul 
-{
+ul ul {
   padding: 0;
   margin: 10;
   list-style: circle;
 }
 
 
+ul {
+  padding: 0px 0px 0px 15px;
+  margin: 0;
+  list-style: square;
+}
+
+ul ul {
+  padding: 0px 0px 0px 30px;
+  margin: 10;
+  list-style: circle;
+}
