@@ -344,6 +344,13 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	features Start
 --*/
+#impact-image-section {
+  padding-top: 30px;
+  padding-bottom: 75px;
+}
+#impact-image-section .impact-image-img {
+  padding: 0px 50px;
+}
 #clients-logo-section {
   padding-top: 30px;
   padding-bottom: 75px;
