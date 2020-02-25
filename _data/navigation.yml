@@ -1,7 +1,6 @@
 - title: Start
   url: "/"
-  side: left
-  
+   
 
 - title: "About ARCHER2"
   url: "/about/"
@@ -12,11 +11,11 @@
   - title: "News & Events"
     url: "/about/news/"
   - title: "Calendar"
-    url: "/about/calendar/"
+    url: "/about/calendar.html"
   - title: "Blog Articles"
     url: "/about/blog/"
   - title: "Hardware"
-    url: "/about/hardware/"
+    url: "/about/hardware.html"
   - title: "Software"
     url: "/about/software/"
   - title: "Service Policies"
@@ -53,9 +52,9 @@
   - title: "User Support"
     url: "/support/"
   - title: "Helpdesk"
-    url: "/support/helpdesk/"
+    url: "/support/helpdesk.html"
   - title: "Frequently Asked Questions"
-    url: "/support/faq/"
+    url: "/support/faq.html"
   
 
 - title: Documentation
