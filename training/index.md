@@ -59,7 +59,6 @@ Once all details are finalised, the course will be moved up to the confirmed sec
 | Performance Analysis Workshop
 
 
-
 Courses marked with † are fully booked but please complete the registration form to be added to the waiting list.
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our software page.
