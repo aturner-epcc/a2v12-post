@@ -24,8 +24,6 @@
     url: "/about/reports/"
   - title: "Partners"
     url: "/about/partners.html"
-  - title: "People"
-    url: "/about/people/"
   - title: "Media Gallery"
     url: "/about/gallery/"
   
@@ -54,7 +52,7 @@
   - title: "Helpdesk"
     url: "/support/helpdesk.html"
   - title: "Frequently Asked Questions"
-    url: "/support/faq.html"
+    url: "/support/faq/"
   
 
 - title: Documentation
@@ -120,8 +118,8 @@
   - title: "Engagement"
     url: "/engagement/"
   - title: "Community"
-    url: "/community/"
+    url: "/engagement/community/"
   - title: "Outreach"
-    url: "/outreach/"
+    url: "engagement/outreach/"
   - title: "Impact"
-    url: "/impact/"
+    url: "engagement/impact/"
