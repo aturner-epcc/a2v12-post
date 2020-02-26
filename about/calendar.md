@@ -21,8 +21,7 @@ planned maintenance sessions.</p>
 
 
 
-<p>The <a href="/about-archer/news-events/events/ARCHER-calendar/index.php">ARCHER Calendar</a> is also available with
-each month highlighting a different research project on the system.</p>
+
 
 
 <iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=archer2.hpc%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="750" height="600" frameborder="0" scrolling="no"></iframe>
