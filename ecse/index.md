@@ -8,11 +8,11 @@ summary: ARCHER eCSE
 
 Through a series of regular calls, Embedded CSE (eCSE) support provides funding to the ARCHER user community to develop software in a sustainable manner to run on ARCHER.
 
-There are currently no calls open. The list of all funded eCSE projects can be found on the funded eCSE projects page. 
+There are currently no [calls](./calls/) open. The list of all funded eCSE projects can be found on the funded [eCSE projects page](./projects/). 
 
 ### Useful links
 
-* List of all eCSE projects funded
+* List of all [eCSE projects](./projects/) funded
 * Codes worked on during eCSE projects
 * eCSE Final report template
 * Acknowledgement of eCSE funding
