@@ -9,7 +9,7 @@
   - title: "About ARCHER2"
     url: "/about/"
   - title: "News & Events"
-    url: "/about/news/"
+    url: "/about/news-events/"
   - title: "Calendar"
     url: "/about/calendar.html"
   - title: "Blog Articles"
@@ -23,7 +23,7 @@
   - title: "Service Reports"
     url: "/about/reports/"
   - title: "Partners"
-    url: "/about/partners/"
+    url: "/about/partners.html"
   - title: "People"
     url: "/about/people/"
   - title: "Media Gallery"
@@ -39,9 +39,9 @@
   - title: "TA Form and Notes"
     url: "/access/ta/"
   - title: "kAU Calculator"
-    url: "/access/au-calculator/"
+    url: "/access/au-calculator.html"
   - title: "Cost of Access"
-    url: "/access/cost/"
+    url: "/access/cost.html"
   
 
 
