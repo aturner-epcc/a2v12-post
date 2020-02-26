@@ -8,13 +8,13 @@ summary: Training
 
 * Training
 * Online Training
-* Driving Test
+* [Driving Test](driving-test.html)
 * Training Registration
 * Course Descriptions
 * Virtual Tutorials and Webinars
-* Training Locations
+* [Training Locations](locations/)
 * Training Personnel
-* [Training Materials Repository]({{ site.url }}{{ site.baseurl }}/training/materials/)
+* [Training Materials Repository](materials/)
 * Feedback
 
 ## Upcoming Training
