@@ -7,7 +7,7 @@ summary: Information about the ARCHER2 facility
 # About ARCHER2 #
 
 
-* News and Events
+* [News and Events](news-events)
 * [Calendar]({{ site.url }}{{ site.baseurl }}/about/calendar.html)
 * Blog Articles
 * [Hardware]({{ site.url }}{{ site.baseurl }}/about/hardware.html)
