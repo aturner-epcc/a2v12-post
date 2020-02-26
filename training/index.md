@@ -69,7 +69,7 @@ When registering for one of our courses you agree to abide by our [Training Code
 
 ARCHER2 courses are free to all academics.
 
-Courses marked ![PRACE]({{ site.url }}{{ site.baseurl }}/training/img/prace_25.jfif) PRACE are also funded by [PRACE](http://www.prace-ri.eu/patcs-ptcs) and are free to everyone including commercial attendees.
+Courses marked ![PRACE]({{ site.url }}{{ site.baseurl }}/training/img/prace_25.jfif) PRACE are also funded by [PRACE](http://www.prace-ri.eu/ptcs/) and are free to everyone including commercial attendees.
 
 For all other courses we normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 

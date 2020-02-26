@@ -6,9 +6,13 @@
 	Common Css
 --*/
 
+ol  {
+  padding: 20px 0px 20px 15px;
+  margin: 0;
+  list-style: square;
+}
 
-
-ul {
+ul  {
   padding: 20px 0px 20px 15px;
   margin: 0;
   list-style: square;

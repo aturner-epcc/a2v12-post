@@ -21,5 +21,5 @@ In addition, emails and other information communicated to our helpdesk may be re
 
 If you have any questions, please contact The [ARCHER Helpdesk]({{ site.url }}{{ site.baseurl }}/support/helpdesk.html).
 
-This Privacy Statement is continued at [edin.ac/privacy](edin.ac/privacy)
+This Privacy Statement is continued at [edin.ac/privacy](http://edin.ac/privacy)
 
