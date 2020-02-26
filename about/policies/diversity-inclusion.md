@@ -8,35 +8,35 @@ summary: ARCHER2 Diversity and Inclusion Policy
 
 ## Policy Statement
 
-The ARCHER Service is committed to equality, diversion, inclusion and accessibility. We will promote a positive culture which celebrates difference, challenges prejudice and ensures fairness. We are dedicated to providing a welcoming and supportive environment for all, regardless of background or identity. All members of the HPC community should be respected and valued for their unique perspectives and contributions. The ARCHER Service is committed to providing an environment in which all members of the HPC community treat each other with dignity and respect, and where bullying, harassment and discrimination are known to be unacceptable.
+The ARCHER2 Service is committed to equality, diversion, inclusion and accessibility. We will promote a positive culture which celebrates difference, challenges prejudice and ensures fairness. We are dedicated to providing a welcoming and supportive environment for all, regardless of background or identity. All members of the HPC community should be respected and valued for their unique perspectives and contributions. The ARCHER2 Service is committed to providing an environment in which all members of the HPC community treat each other with dignity and respect, and where bullying, harassment and discrimination are known to be unacceptable.
 
 ## Scope and Purpose
 
-This policy applies to all members of the ARCHER Service team in relation to both individual and collective activities and dealings with others in the HPC community.
+This policy applies to all members of the ARCHER2 Service team in relation to both individual and collective activities and dealings with others in the HPC community.
 
 The purpose of the policy is to:
 
 *    Foster a positive culture which supports freedom of thought and expression within the law, and within a framework of respect for the rights of other people.
 *    Promote and enable an inclusive environment where all individuals are treated with dignity and respect, free from bullying, harassment and discrimination.
 
-The policy provides a set of guidelines for ARCHER staff to follow. These are published and made available to those utilising ARCHER services, to provide confidence that the service is working to provide an inclusive environment for all individuals.
+The policy provides a set of guidelines for ARCHER staff to follow. These are published and made available to those utilising ARCHER2 services, to provide confidence that the service is working to provide an inclusive environment for all individuals.
 
 Equality Impact Assessements (EqIAs) will be completed for all areas of the ARCHER Service. EqIAs will be carried out within existing systems and frameworks. It is a recognised way of improving policy development and service delivery. By assessing equality impact we proactively consider the needs of our users, staff, stakeholders and the wider community, identify potential steps to advance equality and foster good relations, and ensure that we do not discriminate unlawfully.
 ## Key Measures for Organising Events
 
-The ARCHER service runs a significant number of events, including training courses, workshops and conferences. This section contains some recommended practices for organising these events. Not all practices are appropriate for all events, but all ARCHER staff should at least consider all of the following areas when organising an event.
+The ARCHER2 service runs a significant number of events, including training courses, workshops and conferences. This section contains some recommended practices for organising these events. Not all practices are appropriate for all events, but all ARCHER staff should at least consider all of the following areas when organising an event.
 
 ### Organising Groups and Committees
 
-Depending on the nature of the event, there will likely be a group of organisers or an organising committee. This group / committee should itself reflect the diversity we wish for the ARCHER event. Conference chairs and lead organisers should take special care to recruit a committee that reflects the diversity of the event we aspire to create. All such organising committees/groups for ARCHER must contain a mix of genders, and should have a diversity of other characteristics, including, age, race, sexuality, ... As one of the earliest stages of organising an event, prioritising diversity starts here.
+Depending on the nature of the event, there will likely be a group of organisers or an organising committee. This group / committee should itself reflect the diversity we wish for the ARCHER2 event. Conference chairs and lead organisers should take special care to recruit a committee that reflects the diversity of the event we aspire to create. All such organising committees/groups for ARCHER2 must contain a mix of genders, and should have a diversity of other characteristics, including, age, race, sexuality, ... As one of the earliest stages of organising an event, prioritising diversity starts here.
 
 ### Code of Conduct (CoC)
 
-ARCHER has a Code of Conduct that applies to all events:
+ARCHER2 has a Code of Conduct that applies to all events:
 
 *    [Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)
 
-ARCHER staff members will promote awareness of the CoC before and during events. In particular they will make sure that everyone involved in the event is aware that the CoC applies to them: this not only includes participants, but also speakers, sponsors, committee members, etc. Guidance to achieve this:
+ARCHER2 staff members will promote awareness of the CoC before and during events. In particular they will make sure that everyone involved in the event is aware that the CoC applies to them: this not only includes participants, but also speakers, sponsors, committee members, etc. Guidance to achieve this:
 
 *    Have a tick box at registration that confirms that the participant has read it.
 *    Include a copy of the CoC in the registration pack.
@@ -48,7 +48,7 @@ ARCHER staff members will promote awareness of the CoC before and during events.
 
 ### Participant Selection
 
-ARCHER staff should consider carefully where they advertise the event and to whom. Think about reaching out to new communities who could benefit. The choice of language is crucial in encouraging participation and images should show a diverse range of participants, helping potential participants to identify with those that have previously attended events.
+ARCHER2 staff should consider carefully where they advertise the event and to whom. Think about reaching out to new communities who could benefit. The choice of language is crucial in encouraging participation and images should show a diverse range of participants, helping potential participants to identify with those that have previously attended events.
 
 ### Speakers
 
@@ -78,7 +78,7 @@ Colour coordination of the pins by pronoun can lead to quicker recognition and p
 
 ### Accommodating Disabilities: general best practice
 
-All ARCHER events must be available to people with a broad range of disabilities. There is no one size fits all in accommodating a disability but in general we advise:
+All ARCHER2 events must be available to people with a broad range of disabilities. There is no one size fits all in accommodating a disability but in general we advise:
 
 *    After registration provide participants with the opportunity to inform you of any accommodations that they may need. This may be done through an additional form, and can include providing information on requirements other than those to do with disabilities, such as dietary restrictions.
 *    Always use a microphone: 1 in 5 people have some form of hearing impairment, and even in a small room it can be difficult to hear particularly when people are working together in small groups. It is common practice to ask the question 'Can you all hear?', but this is often done in a raised voice that is then lowered for the rest of the day.
@@ -93,7 +93,7 @@ All ARCHER events must be available to people with a broad range of disabilities
 
 ### An Inclusive Environment
 
-When organising the event, ARCHER staff should consider the overall environment for attendees. Is it welcoming and inclusive for all attendees? For example, is there a quiet room available? Are there faith rooms available? Are there appropriate spaces and facilities for people wishing to breastfeed, either in company or in private?
+When organising the event, ARCHER2 staff should consider the overall environment for attendees. Is it welcoming and inclusive for all attendees? For example, is there a quiet room available? Are there faith rooms available? Are there appropriate spaces and facilities for people wishing to breastfeed, either in company or in private?
 
 ### Catering
 
@@ -131,7 +131,7 @@ A survey of participants after the event can help to establish whether your dive
 *    The University of Edinburgh's Dignity and Respect Policy
     https://www.ed.ac.uk/files/atoms/files/dignity_and_respect_policy.pdf
 *    [ARCHER Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)  
-*    ARCHER Best Practice Guide: Improving Accessibility to HPC Training
+*    ARCHER2 Best Practice Guide: Improving Accessibility to HPC Training
     http://www.hpc-diversity.ac.uk/best-practice-guide/best-practice-guide-training
-*    ARCHER Best Practice Guide: Improving diversity at HPC conferences and events
+*    ARCHER2 Best Practice Guide: Improving diversity at HPC conferences and events
     http://www.hpc-diversity.ac.uk/best-practice-guide/access-best-practice

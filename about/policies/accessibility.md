@@ -8,34 +8,34 @@ summary: ARCHER2 Website Accessibility Policy
 
 The ARCHER2 team is committed to ensuring that its websites are accessible to the widest possible audience, including disabled users.
 
-## The ARCHER website accessibility policy
+## The ARCHER2 website accessibility policy
 ### Policy intention
 
-The long-term goal and intention of this policy is to state clear accessibility principles that ARCHER websites should follow.
+The long-term goal and intention of this policy is to state clear accessibility principles that ARCHER2 websites should follow.
 
-The ARCHER team develops its website in line with the W3C recommended version of the Web Content Accessibility Guidelines (WCAG). The ARCHER team acknowledges that this is an anticipatory and continuing work in progress and, in order to ensure no user is disadvantaged while this work is carried out, the ARCHER team intends to respond to all requests for assistance with accessibility by altering the necessary content as soon as possible. Appropriate channels of communication are available to allow visitors to give feedback about any accessibility issues.
+The ARCHER2 team develops its website in line with the W3C recommended version of the Web Content Accessibility Guidelines (WCAG). The ARCHER2 team acknowledges that this is an anticipatory and continuing work in progress and, in order to ensure no user is disadvantaged while this work is carried out, the ARCHER2 team intends to respond to all requests for assistance with accessibility by altering the necessary content as soon as possible. Appropriate channels of communication are available to allow visitors to give feedback about any accessibility issues.
 
-The ARCHER team will make reasonable adjustments to ensure specific individual needs that cannot be addressed by mainstreamed adjustments are met.
+The ARCHER2 team will make reasonable adjustments to ensure specific individual needs that cannot be addressed by mainstreamed adjustments are met.
 
 ### Policy dimensions
 
 For the purpose of this policy, the term "websites" includes:
 
-*    Websites (public and non authenticated) managed and under the control of the ARCHER team using the archer.ac.uk domain (www.archer.ac.uk/something).
-*    Material managed and hosted by the ARCHER team on these pages such as documents, audio, video and any other additional files.
+*    Websites (public and non authenticated) managed and under the control of the ARCHER2 team using the archer.ac.uk domain (www.archer2.ac.uk/something).
+*    Material managed and hosted by the ARCHER2 team on these pages such as documents, audio, video and any other additional files.
 
 ### Policy principles
 
-The ARCHER team will adhere to the following principles in relation to its websites:
+The ARCHER2 team will adhere to the following principles in relation to its websites:
 
 *    The websites shall provide appropriate channels of communication for feedback about accessibility.
-*    The websites shall meet the ARCHER team's responsibilities under the Equality Act (2010) and The Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012.
+*    The websites shall meet the ARCHER2 team's responsibilities under the Equality Act (2010) and The Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012.
 
 ### Guidance and Support
 
 The University of Edinburgh supports staff building and maintaining University websites and associated material to enable them to comply with this policy and has created guidance for this purpose.
 
-The ARCHER team have endeavoured to follow the[ Guidance for building and maintaining accessible University websites](https://www.wiki.ed.ac.uk/display/WAG/Web+Accessibility+Guidance+Home) in the writing and maintenance of the ARCHER websites.
+The ARCHER2 team have endeavoured to follow the[ Guidance for building and maintaining accessible University websites](https://www.wiki.ed.ac.uk/display/WAG/Web+Accessibility+Guidance+Home) in the writing and maintenance of the ARCHER2 websites.
 
 ### Changes to this policy
 
@@ -50,7 +50,7 @@ No updates to date.
 ### If you require this policy document in an alternative format
 If you require this policy document in an alternative format please contact
 
-The [ARCHER helpdesk]({{ site.url }}{{ site.baseurl }}/support/helpdesk.html)
+The [ARCHER2 helpdesk]({{ site.url }}{{ site.baseurl }}/support/helpdesk.html)
 
 *    email : support@archer2.ac.uk
 *    telephone : 0131 650 5000

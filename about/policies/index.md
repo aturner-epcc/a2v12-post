@@ -15,4 +15,4 @@ These policies form an integrated whole, based on the Terms and Conditions of Ac
 * [Policy on end of life procedures for ARCHER user accounts and projects]({{ site.url }}{{ site.baseurl }}/about/policies/project_account_closing.html)
 * [Website accessibility]({{ site.url }}{{ site.baseurl }}/about/policies/accessibility.html)
 * [Diversity and Inclusion]({{ site.url }}{{ site.baseurl }}/about/policies/diversity-inclusion.html)
-* [ARCHER Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)
+* [ARCHER2 Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)
