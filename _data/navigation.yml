@@ -103,8 +103,8 @@
   sublinks:
   - title: "Embedded CSE (eCSE) support"
     url: "/ecse/"
-  - title: "eCSE Call"
-    url: "/ecse/call"
+  - title: "eCSE Calls"
+    url: "/ecse/calls"
   - title: "eCSE list of projects funded"
     url: "/ecse/projects"
     

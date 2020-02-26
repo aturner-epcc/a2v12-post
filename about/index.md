@@ -8,11 +8,11 @@ summary: Information about the ARCHER2 facility
 
 
 * [News and Events](./news-events/)
-* [Calendar](./about/calendar.html)
+* [Calendar](./calendar.html)
 * Blog Articles
-* [Hardware](./about/hardware.html)
+* [Hardware](./hardware.html)
 * [Software](./software/)
 * [Service Policies](./policies/)
-* [Service Reports](./about/reports)
+* [Service Reports](./reports)
 * [Service Partners](./partners.html)
 * [Gallery](./gallery/)
