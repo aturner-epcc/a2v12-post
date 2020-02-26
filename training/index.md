@@ -63,13 +63,13 @@ Courses marked with **†** are fully booked but please complete the registratio
 
 Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training software).
 
-When registering for one of our courses you agree to abide by our [Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/policies/training.html).
+When registering for one of our courses you agree to abide by our [Training Code of Conduct](./code-of-conduct/).
 
 ## Eligibility for training
 
 ARCHER2 courses are free to all academics.
 
-Courses marked ![PRACE]({{ site.url }}{{ site.baseurl }}/training/img/prace_25.jfif) PRACE are also funded by [PRACE](http://www.prace-ri.eu/ptcs/) and are free to everyone including commercial attendees.
+Courses marked ![PRACE](./img/prace_25.jfif) PRACE are also funded by [PRACE](http://www.prace-ri.eu/ptcs/) and are free to everyone including commercial attendees.
 
 For all other courses we normally charge a fee for non-academics. If you are from a commercial organisation and wish to attend a particular course or arrange training at your site by the EPCC team then please contact the [ARCHER2 Training Administrator](mailto:training@epcc.ed.ac.uk).
 
@@ -81,9 +81,9 @@ Mailings will be sent approximately 1-2 times per month, your details will not b
 
 ## Online Training
 
-Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving test)
+Much of the ARCHER2 training material is available online. In particular, this includes material relevant to the [ARCHER2 Driving Test](driving test.html)
 
-On Successful completion of the [ARCHER2 Driving Test](driving test) you will be invited to apply for an account on ARCHER2 with 1200 kAUs (80,000 core-hours) to use over 12 months, enabling you to put your skills into practice.
+On Successful completion of the [ARCHER2 Driving Test](driving test.html) you will be invited to apply for an account on ARCHER2 with 1200 kAUs (80,000 core-hours) to use over 12 months, enabling you to put your skills into practice.
 
 ## Other Training
 
