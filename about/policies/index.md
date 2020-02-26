@@ -12,7 +12,7 @@ These policies form an integrated whole, based on the Terms and Conditions of Ac
 * [SAFE Acceptable Use Policy]({{ site.url }}{{ site.baseurl }}/about/policies/safe_acceptable_use_policy.html)
 * [SAFE Personal Data and Privacy Policy]({{ site.url }}{{ site.baseurl }}/about/policies/safe_privacy_policy.html)
 * [ Password and Username Policy]({{ site.url }}{{ site.baseurl }}/about/policies/passwords_usernames.html)
-* Policy on end of life procedures for ARCHER user accounts and projects
+* [Policy on end of life procedures for ARCHER user accounts and projects]({{ site.url }}{{ site.baseurl }}/about/policies/project_account_closing.html)
 * Website accessibility
 * Diversity and Inclusion
 * [ARCHER Training Code of Conduct]({{ site.url }}{{ site.baseurl }}/training/code-of-conduct/)
