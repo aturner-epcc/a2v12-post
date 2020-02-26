@@ -19,3 +19,17 @@ ul ul {
   margin: 10;
   list-style: circle;
 }
+
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+	padding: 5px 5px 5px 5px;
+}
