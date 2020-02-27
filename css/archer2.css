@@ -7,6 +7,61 @@
 	Common Css
 --*/
 
+/*--
+	Common Css
+--*/
+body {
+    font-family: 'Open Sans', ;
+  -webkit-font-smoothing: antialiased;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+}
+h2 {
+  font: 'Source Sans Light';
+  color: #51baa0
+  font-size: 30px;
+  font-weight: 400;
+}
+h3 {
+  font:'Open Sans Bold';
+  font-size: 28px;
+  font-weight: 300;
+}
+p {
+  font-size: 15px;
+  line-height: 28px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+a,
+a:active,
+a:focus,
+a:active {
+  text-decoration: none !important;
+}
+.section-title {
+  margin-bottom: 70px;
+}
+.section-title h2 {
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 600;
+}
+.section-title p {
+  font-family: 'Volkhov', serif;
+  font-style: italic;
+  color: #666;
+}
+
 ul {
   padding: 0;
   margin: 0;
