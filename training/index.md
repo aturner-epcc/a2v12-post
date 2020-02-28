@@ -7,11 +7,11 @@ summary: Training
 # ARCHER2 Training #
 
 * Training
-* Online Training
+* [Online Training](online/)
 * [Driving Test](driving-test.html)
-* Training Registration
-* Course Descriptions
-* Virtual Tutorials and Webinars
+* [Training Registration](http://www.archer.ac.uk/training/registration/)
+* [Course Descriptions](courses/)
+* [Virtual Tutorials and Webinars](virtual/)
 * [Training Locations](locations/)
 * Training Personnel
 * [Training Materials Repository](materials/)
