@@ -89,12 +89,10 @@
     url: "/training/virtual/"
   - title: "Training Locations"
     url: "/training/locations/"
-  - title: "Training Personnel"
-    url: "/training/people/"
   - title: "Training Materials Repository"
     url: "/training/past_courses/"
   - title: "Feedback"
-    url: "/training/feedback/"
+    url: "http://www.archer.ac.uk/training/feedback/"
   
   
 - title: "eCSE"
