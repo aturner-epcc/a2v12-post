@@ -39,3 +39,7 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    
+    
+favicon-32x32:  'favicon.png'
+
