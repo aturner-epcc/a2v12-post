@@ -80,7 +80,7 @@
   - title: "Online Training"
     url: "/training/online/"
   - title: "Driving Test"
-    url: "/training/driving_test/"
+    url: "/training/driving-test.html/"
   - title: "Training Registration"
     url: "http://www.archer.ac.uk/training/registration/"
   - title: "Course Descriptions"
@@ -90,7 +90,7 @@
   - title: "Training Locations"
     url: "/training/locations/"
   - title: "Training Materials Repository"
-    url: "/training/past_courses/"
+    url: "/training/materials/"
   - title: "Feedback"
     url: "http://www.archer.ac.uk/training/feedback/"
   
