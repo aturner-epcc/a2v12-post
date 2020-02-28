@@ -20,18 +20,18 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 h2 {
-  font-family: 'Source Sans Light';
+  font-family: 'Source Sans Pro';
   color: #51baa0;
   font-size: 30px;
-  font-weight: 400;
+  font-weight: 300;
 }
 h3 {
-  font:'Open Sans Bold';
+  font:'Open Sans';
   font-size: 28px;
-  font-weight: 300;
+  font-weight: 500;
 }
 p {
   font-size: 15px;
