@@ -14,14 +14,14 @@ keep_files:
 
 
 # Site settings
-title: A2v2
+title: A2v5
 subtitle: "A free HTML5 agency template"
-url: "http://clairbarrass.github.io/a2v3" # the base hostname & protocol for your site
+url: "http://clairbarrass.github.io/a2v5" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 
 url: 'https://clairbarrass.github.io'
-baseurl: '/a2v3'
+baseurl: '/a2v5'
 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
@@ -41,5 +41,5 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
     
     
-favicon-32x32:  'favicon.png'
+
 
