@@ -52,49 +52,42 @@ summary: Information about the ARCHER2 facility
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
-
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="/policies/">Service Policies</a></h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
-
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="/reports/">Service Reports</a></h4>
           <p>Periodic public reports on the service. </p>
         </div>
       </div>
-
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>News Blog</h4>
           <p>News, success stories, user mailings. </p>
         </div>
       </div>
-
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="calendar.html">Calendar</a></h4>
           <p>Calendar of upcoming maintenance and training. </p>
         </div>
       </div>
-
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>ARCHER2 Plus</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
-
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="/gallery/">Gallery</a></h4>
           <p>A gallery of images relating to ARCHER and ARCHER2 and the work that has been done using these services. </p>
         </div>
       </div>
-
     </div>
   </div>
 </section>
