@@ -26,22 +26,10 @@
     url: "/about/gallery/"
   
 
-- title: "Getting Access"
-  url: "/access/"
-  side: left
-  sublinks:
-  - title: "Get Access"
-    url: "/access/"
-  - title: "TA Form and Notes"
-    url: "/access/ta/"
-  - title: "kAU Calculator"
-    url: "/access/au-calculator.html"
-  - title: "Cost of Access"
-    url: "/access/cost.html"
   
 
 
-- title: "Support"
+- title: "Support & Access"
   url: "/support/"
   side: left
   sublinks:
@@ -51,7 +39,14 @@
     url: "/support/helpdesk.html"
   - title: "Frequently Asked Questions"
     url: "/support/faq/"
-  
+  - title: "Get Access"
+    url: "/access/"
+  - title: "TA Form and Notes"
+    url: "/access/ta/"
+  - title: "kAU Calculator"
+    url: "/access/au-calculator.html"
+  - title: "Cost of Access"
+    url: "/access/cost.html"  
 
 - title: Documentation
   url: "/documentation/"
@@ -69,7 +64,6 @@
     url: "/documentation/best-practice"
   
 
- 
 
 - title: Training
   url: "/training/"
@@ -82,7 +76,7 @@
   - title: "Driving Test"
     url: "/training/driving-test.html"
   - title: "Training Registration"
-    url: "http://www.archer.ac.uk/training/registration/"
+    url: "https://www.archer.ac.uk/training/registration/"
   - title: "Course Descriptions"
     url: "/training/courses/"
   - title: "Virtual Tutorials and Webinars"
@@ -92,7 +86,7 @@
   - title: "Training Materials Repository"
     url: "/training/materials/"
   - title: "Feedback"
-    url: "http://www.archer.ac.uk/training/feedback/"
+    url: "https://www.archer.ac.uk/training/feedback/"
   
   
 - title: "eCSE"
