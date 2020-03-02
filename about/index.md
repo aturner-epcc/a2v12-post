@@ -31,7 +31,7 @@ summary: Information about the ARCHER2 facility
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>About the Service</h4>
-          <p> </p>
+          <p>The UK National HPC facility</p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
@@ -82,7 +82,7 @@ summary: Information about the ARCHER2 facility
           <p>A gallery of images relating to ARCHER and ARCHER2 and the work that has been done using these services. </p>
         </div>
       </div>
-			      <div class="col-sm-6 col-md-3">
+			<div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="policies/">Service Policies</a></h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
