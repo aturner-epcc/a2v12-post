@@ -45,3 +45,13 @@ header .navbar-default .navbar-nav li a {
     padding: 10px 16px;
     font-size: 15px;
 }
+
+
+#global-header {
+  background: url("../img/slider-bg.jpg") no-repeat;
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  position: relative;
+  background-attachment: fixed;
+}

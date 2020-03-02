@@ -30,12 +30,6 @@ summary: Information about the ARCHER2 facility
     <div class="row ">
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4>Branding</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
           <h4>About the Service</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
@@ -58,15 +52,31 @@ summary: Information about the ARCHER2 facility
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
+
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>Service Policies</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
+
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4>Calendar</h4>
+          <h4>Service Reports</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4>News Blog</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4>[Calendar](calendar.html)</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
@@ -76,6 +86,14 @@ summary: Information about the ARCHER2 facility
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
         </div>
       </div>
+
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="/gallery/">Gallery</a></h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
