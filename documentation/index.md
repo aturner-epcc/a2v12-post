@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: section
 title: ARCHER2 Documentation
 summary: How to make best use of the ARCHER2 facility
 ---
