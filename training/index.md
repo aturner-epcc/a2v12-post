@@ -104,7 +104,7 @@ Individual links to course provide more details on the content and prerequisites
 
 | Course | Venue | Dates | Register |
 |---     | ---   | ---   | ---      |
-| No confirmed courses 	| | |	|
+| [HPC Carpentry](courses/index.html#hpc_carpentry) 	| [EPCC, Edinburgh](locations/epcc.html) | 1 June 2020  |	[Register](http://www.archer.ac.uk/training/registration) |
 
 The following courses are provisional and details of dates and locations may be subject to change.
 Once all details are finalised, the course will be moved up to the confirmed section above and registration opened.
