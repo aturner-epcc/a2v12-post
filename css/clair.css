@@ -59,4 +59,10 @@ header .navbar-default .navbar-nav li a {
 #service .service-item{
  padding: 10px 10px 30px 10px;
 border:  6px double #51baa0;
+margin: 10px auto 10px auto;
+}
+
+#service .service-item-borderless{
+ padding: 10px 10px 30px 10px;
+border:  0px double #51baa0;
 }
