@@ -27,14 +27,14 @@ summary: How to get assistance with using ARCHER2 facility
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="/helpdesk.html">Helpdesk</a></h4>
+          <h4><a href="helpdesk.html">Helpdesk</a></h4>
           <p></p>
         </div>
       </div>		
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="/faq/">Frequently Asked Questions</a></h4>
+          <h4><a href="faq/">Frequently Asked Questions</a></h4>
           <p></p>
         </div>
       </div>	
