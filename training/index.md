@@ -36,7 +36,7 @@ summary: Training Courses and resources
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="materials/">Course Materials</a></h4>
+          <h4><a href="materials/">Course Materials repository</a></h4>
           <p></p>
         </div>
       </div>	
@@ -60,14 +60,14 @@ summary: Training Courses and resources
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="http://www.archer.ac.uk/training/registration/">Registration</a></h4>
+          <h4><a href="http://www.archer.ac.uk/training/registration/">Course Registration</a></h4>
           <p></p>
         </div>
       </div>	
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="virtual/">Virtual Tutorials</a></h4>
+          <h4><a href="virtual/">Virtual Tutorials and Webinars</a></h4>
           <p></p>
         </div>
       </div>																	
@@ -91,15 +91,6 @@ summary: Training Courses and resources
 </section>
 
 <p><a name="upcoming-training">&nbsp;</a></p>
-
-* [Online Training](online/)
-* [Driving Test](driving-test.html)
-* [Training Registration](http://www.archer.ac.uk/training/registration/)
-* [Course Descriptions](courses/)
-* [Virtual Tutorials and Webinars](virtual/)
-* [Training Locations](locations/)
-* [Training Materials Repository](materials/)
-* [Feedback](http://www.archer.ac.uk/training/feedback/)
 
 ## Upcoming Training
 
