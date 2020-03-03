@@ -49,13 +49,13 @@ summary: Information about the ARCHER2 facility
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="reports/">Service Reports</a></h4>
-          <p>Periodic public reports on the service. </p>
+          <p>Periodic public reports </br>on the service. </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>News Blog</h4>
-          <p>News, success stories, user mailings. </p>
+          <p>News,</br> success stories, user mailings. </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
