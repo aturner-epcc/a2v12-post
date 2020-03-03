@@ -6,6 +6,92 @@ summary: Training
 
 # ARCHER2 Training #
 
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+	
+    <div class="row">	
+      <div class="section-title">
+        <h2>Support and Access</h2>
+        <p>User Support and how to obtain access to ARCHER2.</p>
+      </div>
+    </div>
+					
+			
+    <div class="row ">
+		
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="#upcoming-training">Upcoming Courses</a></h4>
+          <p></p>
+        </div>
+      </div>		
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="courses/">Courses Descriptions</a></h4>
+          <p></p>
+        </div>
+      </div>		
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="materials/">Course Materials</a></h4>
+          <p></p>
+        </div>
+      </div>	
+			
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="http://www.archer.ac.uk/training/feedback/">Training Feedback</a></h4>
+          <p></p>
+        </div>
+      </div>
+			
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="locations/">Training Locations</a></h4>
+          <p></p>
+        </div>
+      </div>			
+			
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="http://www.archer.ac.uk/training/registration/">Registration</a></h4>
+          <p></p>
+        </div>
+      </div>	
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="virtual/">Virtual Tutorials</a></h4>
+          <p></p>
+        </div>
+      </div>																	
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="online/">Online self-service Training resources</a></h4>
+          <p></p>
+        </div>
+      </div>			
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="driving-test.html">Driving Test</a></h4>
+          <p></p>
+        </div>
+      </div>					
+			
+    </div>
+  </div>
+</section>
+
+<p><a name="upcoming-training">&nbsp;</a></p>
+
 * [Online Training](online/)
 * [Driving Test](driving-test.html)
 * [Training Registration](http://www.archer.ac.uk/training/registration/)
