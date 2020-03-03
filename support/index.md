@@ -20,7 +20,7 @@ summary: How to get assistance with using ARCHER2 facility
 		
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="#ARCHER-User-Support">User Support</a></h4>
+          <h4><a href="ARCHER-User-Support">User Support</a></h4>
           <p></p>
         </div>
       </div>		
@@ -77,6 +77,7 @@ summary: How to get assistance with using ARCHER2 facility
 </section>
 
 
+<p><a name="ARCHER-User-Support">&nbsp;</a></p>
 
 # ARCHER User Support
 
