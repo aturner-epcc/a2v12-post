@@ -1,10 +1,10 @@
 ---
 layout: section
 title: ARCHER2 Training
-summary: Training 
+summary: Training Courses and resources
 ---
 
-# ARCHER2 Training #
+
 
 <!-- Service Start -->
 <section id="service">
@@ -12,8 +12,8 @@ summary: Training
 	
     <div class="row">	
       <div class="section-title">
-        <h2>Support and Access</h2>
-        <p>User Support and how to obtain access to ARCHER2.</p>
+        <h2>ARCHER2 Training</h2>
+        <p>Details of all our face-to-face and online training courses.</p>
       </div>
     </div>
 					
