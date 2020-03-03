@@ -32,4 +32,4 @@ When you email your query, you will normally get an automatic acknowledgement by
 
 The expert may contact you to discuss your problem or to get extra information. Finally, the expert will send you an answer, and the query will be closed. At this point the helpdesk will send you another message, telling you that this has happened.
 
-Closed queries are kept in the SAFE database, so that we can refer back to them when solving future problems, and when writing documentation, etc. The SAFE database is protected by [ARCHER Personal Data and Privacy Policy](../policies/privacy.html). 
+Closed queries are kept in the SAFE database, so that we can refer back to them when solving future problems, and when writing documentation, etc. The SAFE database is protected by [ARCHER Personal Data and Privacy Policy](../about/policies/privacy.html). 
