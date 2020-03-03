@@ -43,19 +43,19 @@ summary: Information about the ARCHER2 facility
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>ARCHER2 and the HPC Landscape</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+          <p>Information on HPC Resources in the UK </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="reports/">Service Reports</a></h4>
-          <p>Periodic public reports </br>on the service. </p>
+          <p>Periodic public reports on the service. </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4>News Blog</h4>
-          <p>News,</br> success stories, user mailings. </p>
+          <p>News, success stories, user mailings. </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
@@ -73,13 +73,13 @@ summary: Information about the ARCHER2 facility
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="policies/">Service Policies</a></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+          <p>Guidance on requirements, expectations and procedures </p>
         </div>
       </div>      
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="policies/">ARCHER2 +</a></h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+          <p>ARCHER2 in a wider context </p>
         </div>
       </div>
     </div>
