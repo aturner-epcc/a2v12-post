@@ -7,17 +7,6 @@ summary: Information about the ARCHER2 facility
 # About ARCHER2 #
 
 
-* [News and Events](./news-events/)
-* [Calendar](./calendar.html)
-* Blog Articles
-* [Hardware](./hardware.html)
-* [Software](./software/)
-* [Service Policies](./policies/)
-* [Service Reports](./reports)
-* [Service Partners](./partners.html)
-* [Gallery](./gallery/)
-
-
 <!-- Service Start -->
 <section id="service">
   <div class="container">
@@ -36,13 +25,20 @@ summary: Information about the ARCHER2 facility
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
+          <h4><a href="hardware.html">Hardware</a></h4>
+          <p>The UK National HPC facility</p>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
           <h4><a href="partners.html">Partners</a></h4>
           <p>The partners running the ARCHER2 Service </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4>ARCHER2 and the HPC Landscape</h4>
+          <h4><a href="www.hpc-uk.ac.uk/facilities/">ARCHER2 and the HPC Landscape</a></h4>
           <p>Information on HPC Resources in the UK </p>
         </div>
       </div>
