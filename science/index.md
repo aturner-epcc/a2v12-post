@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Science
-summary: Science
+summary: How ARCHER2 contributes to success
 ---
 
 
@@ -28,15 +28,22 @@ summary: Science
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="helpdesk.html">Publication Database</a></h4>
+          <h4><a href="publications/">Publication Database</a></h4>
           <p>Details of the publications on the work done on ARCHER2</p>
         </div>
       </div>		
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="faq/">Scientific Consortia</a></h4>
+          <h4><a href="consortia/">Scientific Consortia</a></h4>
           <p>bring together computational scientists working in a particular scientific area.</p>
+        </div>
+      </div>	
+			
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item">
+          <h4><a href="impact/">Impact Acceleration</a></h4>
+          <p>How ARCHER2 has helped produce great results sooner.</p>
         </div>
       </div>	
 			
