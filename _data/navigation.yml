@@ -109,6 +109,21 @@
   - title: "Diversity and Inclusion"
     url: "/community/diversity-inclusion/"
   - title: "Industry Engagement"
-    url: "/engagement/industry/"
+    url: "/community/industry/"
   - title: "Sustainability"
-    url: "/engagement/sustainability/"
+    url: "/community/sustainability/"
+
+- title: "Science"
+  url: "/science/"
+  side: left
+  sublinks:
+  - title: "Science"
+    url: "/science/"
+  - title: "Case Studies"
+    url: "/science/case-studies"   
+  - title: "Publication Database"
+    url: "/science/publications"    
+  - title: "Scientific Consortia"
+    url: "/science/consortia"   
+  - title: "Impact Acceleration"
+    url: "/science/impact"    
