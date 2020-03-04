@@ -15,7 +15,7 @@ body {
 h1,
 h2,
 h3,
-h4,
+h4,	
 h5,
 h6 {
   font-family: 'Open Sans', sans-serif;
@@ -32,7 +32,7 @@ h3 {
   font-size: 24px;
   font-weight: 500;
 }
-h3 {
+h4 {
   font:'Open Sans';
   font-size: 18px;
   font-weight: 600;
