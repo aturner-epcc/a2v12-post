@@ -62,8 +62,6 @@
     url: "/documentation/user-guide/#"
   - title: "ARCHER Best Practice Guide"
     url: "/documentation/best-practice"
-  
-
 
 - title: Training
   url: "/training/"
@@ -85,7 +83,6 @@
     url: "/training/online/"
   - title: "Driving Test"
     url: "/training/driving-test.html"
- 
 
 - title: "eCSE"
   url: "/ecse/"
@@ -97,8 +94,7 @@
     url: "/ecse/calls"
   - title: "eCSE list of projects funded"
     url: "/ecse/projects"
-    
-    
+
 - title: "Community"
   url: "/community/"
   side: left
@@ -117,8 +113,7 @@
     url: "/engagement/industry/"
   - title: "Sustainability"
     url: "/engagement/sustainability/"
-    
-    
+
  - title: "Science"
   url: "/science/"
   side: left
