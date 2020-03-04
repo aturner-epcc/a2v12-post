@@ -4,7 +4,6 @@ title: Helpdesk
 summary: How to get assistance from the ARCHER2 Helpdesk
 ---
 
-# ARCHER2 Helpdesk
 
 The ARCHER2 Helpdesk is the first point of contact for all questions relating to the ARCHER2 Service. Support is available Monday to Friday from 08:00 until 18:00, excluding UK public holidays. The ARCHER2 Helpdesk can be reached by:
 

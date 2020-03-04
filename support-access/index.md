@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Help and Support
-summary: How to get assistance with using ARCHER2 facility
+summary: How to get assistance with using ARCHER2 facility and obtaining access.
 ---
 
 <!-- Service Start -->
