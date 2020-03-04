@@ -30,9 +30,18 @@ h2 {
 }
 h3 {
   font:'Open Sans';
-  font-size: 28px;
+  color: #51baa0;
+  font-size: 24px;
   font-weight: 500;
 }
+h3 {
+  font:'Open Sans';
+  font-size: 18px;
+  font-weight: 600;
+}
+
+
+
 p {
   font-size: 15px;
   line-height: 28px;

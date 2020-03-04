@@ -6,6 +6,14 @@
 	Common Css
 --*/
 
+a {
+ color: #6b1f5e;	
+}
+
+a:hover, a:focus {
+	color: #974aaf;
+}
+
 ol  {
   padding: 20px 0px 20px 15px;
   margin: 0;
