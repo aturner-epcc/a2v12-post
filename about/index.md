@@ -4,7 +4,6 @@ title: About ARCHER2
 summary: Information about the ARCHER2 facility
 ---
 
-# About ARCHER2 #
 
 
 <!-- Service Start -->
@@ -16,10 +15,11 @@ summary: Information about the ARCHER2 facility
         <p>ARCHER2 is the follow-on service to <a href="http://archer.ac.uk">ARCHER</a>, the UK National Supercomputing Facility</p>
       </div>
     </div>
+
     <div class="row ">
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4>About the Service</h4>
+          <h4><a href="#about">About the Service</a></h4>
           <p>The UK National HPC facility</p>
         </div>
       </div>
@@ -38,7 +38,7 @@ summary: Information about the ARCHER2 facility
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="www.hpc-uk.ac.uk/facilities/">ARCHER2 and the HPC Landscape</a></h4>
+          <h4><a href="http://www.hpc-uk.ac.uk/facilities/">ARCHER2 and the HPC Landscape</a></h4>
           <p>Information on HPC Resources in the UK </p>
         </div>
       </div>
@@ -74,10 +74,17 @@ summary: Information about the ARCHER2 facility
       </div>      
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="policies/">ARCHER2 +</a></h4>
+          <h4><a href="./community/">ARCHER2 Community</a></h4>
           <p>ARCHER2 in a wider context </p>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+
+<a name="about">&nbsp;</a>
+
+## About the ARCHER2 Service
+
+Details to follow

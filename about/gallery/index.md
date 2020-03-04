@@ -1,10 +1,9 @@
 ---
 layout: section
 title: ARCHER2 Gallery
-summary: ARCHER Gallery
+summary: ARCHER2 Gallery
 ---
 
-# ARCHER2 Gallery
 
 ## Galleries from the ARCHER Image Competitions
 
@@ -14,4 +13,8 @@ summary: ARCHER Gallery
 * [2016 Gallery](http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2016/index.php)
 * [2015 Gallery](http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2015/index.php)
 * [2014 Gallery](http://www.archer.ac.uk/about-archer/news-events/events/image-comp/gallery-2014/index.php)
+
+## ARCHER YouTube Channel
+
+* [YouTube](https://www.youtube.com/channel/UCH28DWRmpadD-hEECymaxdA/videos)
 

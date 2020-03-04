@@ -4,4 +4,9 @@ title: ARCHER2 Service Partners
 summary: ARCHER2 Service Partners
 ---
 
-Details to follow
+- UKRI
+  - EPSRC
+  - NERC
+- CRAY
+- EPCC
+- University of Edinburgh

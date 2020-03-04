@@ -1,10 +1,9 @@
 ---
 layout: section
 title: ARCHER2 Hardware
-summary: ARCHER2 Hardware
+summary: ARCHER2 Hardware and technical specifications
 ---
 
-# ARCHER2 Hardware and technical specifications:
 
 * A peak performance estimated at ~ 28 PFLOP/s
 * System Design:

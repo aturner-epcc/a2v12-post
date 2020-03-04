@@ -72,6 +72,7 @@
   - title: "Training Materials Repository"
     url: "/training/materials/"  
   - title: "Feedback"
+    external: "True" 
     url: "https://www.archer.ac.uk/training/feedback/"
   - title: "Training Locations"
     url: "/training/locations/"  
