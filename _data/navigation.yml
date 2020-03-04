@@ -2,7 +2,7 @@
   url: "/"
    
 
-- title: "About ARCHER2"
+- title: "About"
   url: "/about/"
   side: left
   sublinks:
@@ -22,11 +22,9 @@
     url: "/about/policies/"
   - title: "Media Gallery"
     url: "/about/gallery/"
-  - title: "ARCHER2+"
-    url: "/about/"
-  
-
-  
+  - title: "Community"
+    url: "/community/"
+    
 
 
 - title: "Support & Access"
