@@ -2,7 +2,7 @@
   url: "/"
    
 
-- title: "About"
+- title: "About ARCHER2"
   url: "/about/"
   side: left
   sublinks:
@@ -22,31 +22,31 @@
     url: "/about/policies/"
   - title: "Media Gallery"
     url: "/about/gallery/"
-  - title: "Community"
-    url: "/community/"
+  - title: "ARCHER2+"
+    url: "/about/"
   
 
   
 
 
 - title: "Support & Access"
-  url: "/support-access/"
+  url: "/support/"
   side: left
   sublinks:
   - title: "User Support"
-    url: "/support-access/"
+    url: "/support/"
   - title: "Helpdesk"
-    url: "/support-access/helpdesk.html"
+    url: "/support/helpdesk.html"
   - title: "Frequently Asked Questions"
-    url: "/support-access/faq/"
+    url: "/support/faq/"
   - title: "Get Access"
-    url: "/support-access/access.html"
+    url: "/access/"
   - title: "TA Form and Notes"
-    url: "/support-access/ta/"
+    url: "/access/ta/"
   - title: "kAU Calculator"
-    url: "/support-access/au-calculator.html"
+    url: "/access/au-calculator.html"
   - title: "Cost of Access"
-    url: "/support-access/cost.html"  
+    url: "/access/cost.html"  
 
 - title: Documentation
   url: "/documentation/"
@@ -62,6 +62,8 @@
     url: "/documentation/user-guide/#"
   - title: "ARCHER Best Practice Guide"
     url: "/documentation/best-practice"
+  
+
 
 - title: Training
   url: "/training/"
@@ -83,6 +85,7 @@
     url: "/training/online/"
   - title: "Driving Test"
     url: "/training/driving-test.html"
+ 
 
 - title: "eCSE"
   url: "/ecse/"
@@ -94,37 +97,17 @@
     url: "/ecse/calls"
   - title: "eCSE list of projects funded"
     url: "/ecse/projects"
-
-- title: "Community"
-  url: "/community/"
+    
+    
+- title: "Engagement"
+  url: "/engagement/"
   side: left
   sublinks:
+  - title: "Engagement"
+    url: "/engagement/"
   - title: "Community"
-    url: "/community/"
+    url: "/engagement/community/"
   - title: "Outreach"
-    url: "/community/outreach/"
-  - title: "HPC and RSE Community"
-    url: "/community/hpc-rse-community/"    
-  - title: "Supporting the wider community"
-    url: "/community/wider-community/"
-  - title: "Diversity and Inclusion"
-    url: "/community/diversity-inclusion/"
-  - title: "Industry Engagement"
-    url: "/engagement/industry/"
-  - title: "Sustainability"
-    url: "/engagement/sustainability/"
-
- - title: "Science"
-  url: "/science/"
-  side: left
-  sublinks:
-  - title: "Science"
-    url: "/science/"
-  - title: "Case Studies"
-    url: "/science/case-studies"   
-  - title: "Publication Database"
-    url: "/science/publications"    
-  - title: "Scientific Consortia"
-    url: "/science/consortia"   
-  - title: "Impact Acceleration"
-    url: "/science/impact"    
+    url: "/engagement/outreach/"
+  - title: "Impact"
+    url: "/engagement/impact/"
