@@ -1,8 +1,8 @@
 ---
 layout: section
-title: ARCHER2 Impact
-summary: ARCHER Impact
+title: ARCHER2 Impact Acceleration
+summary: ARCHER Impact Acceleration
 ---
 
-# ARCHER2 Impact
+# ARCHER2 Impact Acceleration
 
