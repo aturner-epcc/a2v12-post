@@ -42,7 +42,7 @@ summary: How to get assistance with using ARCHER2 facility
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="../access/">Get Access</a></h4>
+          <h4><a href="access.html">Get Access</a></h4>
           <p></p>
         </div>
       </div>
@@ -50,7 +50,7 @@ summary: How to get assistance with using ARCHER2 facility
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="../access/ta/">TA Form and Notes</a></h4>
+          <h4><a href="ta/">TA Form and Notes</a></h4>
           <p></p>
         </div>
       </div>			
@@ -58,14 +58,14 @@ summary: How to get assistance with using ARCHER2 facility
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="../access/au-calculator.html">kAU Calculator</a></h4>
+          <h4><a href="au-calculator.html">kAU Calculator</a></h4>
           <p></p>
         </div>
       </div>	
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="../access/cost.html">Cost of Access</a></h4>
+          <h4><a href="cost.html">Cost of Access</a></h4>
           <p></p>
         </div>
       </div>																	

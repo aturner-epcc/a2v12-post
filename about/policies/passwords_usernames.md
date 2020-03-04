@@ -28,6 +28,6 @@ Usernames are standardised and the rules governing them are:
 
 
 
-If you have any questions about the choice of passwords OR usernames on ARCHER2, please contact The [ARCHER Helpdesk]({{ site.url }}{{ site.baseurl }}/support/helpdesk.html).
+If you have any questions about the choice of passwords OR usernames on ARCHER2, please contact The [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
 
 

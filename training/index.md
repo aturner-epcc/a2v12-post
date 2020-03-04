@@ -96,7 +96,7 @@ summary: Training Courses and resources
 
 The list below shows the currently scheduled ARCHER2 courses. Please follow the links in the list to find out more about the courses and to register.
 
-If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the [ARCHER helpdesk]({{ site.url }}{{ site.baseurl }}/support/helpdesk.html).
+If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
 
 ### Upcoming Courses
 
@@ -136,7 +136,7 @@ Once all details are finalised, the course will be moved up to the confirmed sec
 
 Courses marked with **†** are fully booked but please complete the registration form to be added to the waiting list.
 
-Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training software).
+Details of the software you should have installed, in preparation for any of our courses, is listed on our [software page](training-software.html).
 
 When registering for one of our courses you agree to abide by our [Training Code of Conduct](./code-of-conduct/).
 
