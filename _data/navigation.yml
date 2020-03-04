@@ -28,23 +28,23 @@
 
 
 - title: "Support & Access"
-  url: "/support/"
+  url: "/support-access/"
   side: left
   sublinks:
   - title: "User Support"
-    url: "/support/"
+    url: "/support-access/"
   - title: "Helpdesk"
-    url: "/support/helpdesk.html"
+    url: "/support-access/helpdesk.html"
   - title: "Frequently Asked Questions"
-    url: "/support/faq/"
+    url: "/support-access/faq/"
   - title: "Get Access"
-    url: "/access/"
+    url: "/support-access/access.html"
   - title: "TA Form and Notes"
-    url: "/access/ta/"
+    url: "/support-access/ta/"
   - title: "kAU Calculator"
-    url: "/access/au-calculator.html"
+    url: "/support-access/au-calculator.html"
   - title: "Cost of Access"
-    url: "/access/cost.html"  
+    url: "/support-access/cost.html"  
 
 - title: Documentation
   url: "/documentation/"
