@@ -5,4 +5,9 @@
 
 
 
-
+#service .service-item{
+ padding: 10px 10px 30px 10px;
+border:  6px double #51baa0;
+margin: 10px auto 10px auto;
+height: 180px
+}
