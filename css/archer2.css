@@ -7,9 +7,7 @@
 	Common Css
 --*/
 
-/*--
-	Common Css
---*/
+
 body {
     font-family: 'Open Sans', 'Source Sans Pro', 'Open Sans Condensed', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -46,10 +44,23 @@ p {
   font-size: 15px;
   line-height: 28px;
 }
-ul {
-  padding: 0;
+
+ol  {
+  padding: 20px 0px 20px 15px;
   margin: 0;
-  list-style: none;
+  list-style: square;
+}
+
+ul  {
+  padding: 20px 0px 20px 15px;
+  margin: 0;
+  list-style: square;
+}
+
+ul ul {
+  padding: 0px 0px 0px 30px;
+  margin: 10;
+  list-style: circle;
 }
 a,
 a:active,
@@ -57,6 +68,33 @@ a:focus,
 a:active {
   text-decoration: none !important;
 }
+
+a {
+ color: #6b1f5e;	
+}
+
+a:hover, a:focus {
+	color: #974aaf;
+}
+
+
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+	padding: 5px 5px 5px 5px;
+}
+
+
+
+
 .section-title {
   margin-bottom: 70px;
 }
@@ -87,4 +125,34 @@ ul {
 }
 #impact-image-section .impact-image-img {
   padding: 0px 50px;
+}
+
+
+
+header .navbar-default .navbar-nav li a {
+    color: #333333;
+	color: #201f5e;
+    padding: 10px 16px;
+    font-size: 15px;
+}
+
+
+#global-header {
+  background: url("../img/slider-bg.jpg") no-repeat;
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  position: relative;
+  background-attachment: fixed;
+}
+
+#service .service-item{
+ padding: 10px 10px 30px 10px;
+border:  6px double #51baa0;
+margin: 10px auto 10px auto;
+}
+
+#service .service-item-borderless{
+ padding: 10px 10px 30px 10px;
+border:  0px double #51baa0;
 }

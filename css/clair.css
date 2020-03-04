@@ -2,75 +2,7 @@
  * This is the  css file while clair is trying things out so as not to break the main css!
  */
 
-/*--
-	Common Css
---*/
-
-a {
- color: #6b1f5e;	
-}
-
-a:hover, a:focus {
-	color: #974aaf;
-}
-
-ol  {
-  padding: 20px 0px 20px 15px;
-  margin: 0;
-  list-style: square;
-}
-
-ul  {
-  padding: 20px 0px 20px 15px;
-  margin: 0;
-  list-style: square;
-}
-
-ul ul {
-  padding: 0px 0px 0px 30px;
-  margin: 10;
-  list-style: circle;
-}
-
-table {
-  border-collapse: collapse;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
-
-th, td {
-	padding: 5px 5px 5px 5px;
-}
 
 
-header .navbar-default .navbar-nav li a {
-    color: #333333;
-	color: #201f5e;
-    padding: 10px 16px;
-    font-size: 15px;
-}
 
 
-#global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
-  background-size: cover;
-  padding-top: 40px;
-  padding-bottom: 30px;
-  position: relative;
-  background-attachment: fixed;
-}
-
-#service .service-item{
- padding: 10px 10px 30px 10px;
-border:  6px double #51baa0;
-margin: 10px auto 10px auto;
-}
-
-#service .service-item-borderless{
- padding: 10px 10px 30px 10px;
-border:  0px double #51baa0;
-}
