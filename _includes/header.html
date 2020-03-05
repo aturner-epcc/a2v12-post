@@ -89,6 +89,7 @@
 		i=s.length-1;
 		path+="<A HREF=\""+href.substring(0,href.indexOf(s[i])+s[i].length)+"\">"+s[i]+"</A>";
 		var url = window.location.protocol + "//" + path;
+		var url = "You are here: " + path;
 		document.writeln(url);
 		//-->
 		</script>
