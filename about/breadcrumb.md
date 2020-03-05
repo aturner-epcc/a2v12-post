@@ -31,3 +31,9 @@ summary: see what happens
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+# try it here
+
+$('.carousel').carousel()
+
+shoud be done
