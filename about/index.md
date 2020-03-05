@@ -50,7 +50,7 @@ summary: Information about the ARCHER2 facility
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item-tall">
-          <h4>News Blog</h4>
+          <h4><a href="../news.html">News Blog</a></h4>
           <p>News, success stories, user mailings. </p>
         </div>
       </div>
