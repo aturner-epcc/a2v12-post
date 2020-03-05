@@ -20,28 +20,28 @@ summary: How ARCHER2 contributes to success
     <div class="row ">
 		
       <div class="col-sm-6 col-md-3">
-        <div class="service-item">
+        <div class="service-item-tall">
           <h4><a href="case-studies/">Case Studies</a></h4>
           <p>Examples of some of the successful projects.</p>
         </div>
       </div>		
 			
       <div class="col-sm-6 col-md-3">
-        <div class="service-item">
+        <div class="service-item-tall">
           <h4><a href="publications/">Publication Database</a></h4>
           <p>Details of the publications on the work done on ARCHER2</p>
         </div>
       </div>		
 			
       <div class="col-sm-6 col-md-3">
-        <div class="service-item">
+        <div class="service-item-tall">
           <h4><a href="consortia/">Scientific Consortia</a></h4>
           <p>bring together computational scientists working in a particular scientific area.</p>
         </div>
       </div>	
 			
       <div class="col-sm-6 col-md-3">
-        <div class="service-item">
+        <div class="service-item-tall">
           <h4><a href="impact/">Impact Acceleration</a></h4>
           <p>How ARCHER2 has helped produce great results sooner.</p>
         </div>
