@@ -17,10 +17,10 @@ Virtual tutorials normally start with a presentation and live demonstration on a
 
 ## Upcoming Sessions
 
- Chrome or Firefox are recommended for connecting to BlackBoard Collaborate but most other modern browsers will work to attend a session - please see our BlackBoard Collaborate page for more information and advice on testing your connection prior to the tutorial.
- There are also apps available for BlackBoard Collaborate but these have reduced functionality and we recommend using the browser where this is an option.
+> Chrome or Firefox are recommended for connecting to BlackBoard Collaborate but most other modern browsers will work to attend a session - please see our BlackBoard Collaborate page for more information and advice on testing your connection prior to the tutorial.
+> 
+> There are also apps available for BlackBoard Collaborate but these have reduced functionality and we recommend using the browser where this is an option.
 
-BlackBoard provide lots of help and documentation if you have any questions or issues.
 
 
 | Title 	| Description |	Type |	Associated files |	Date |
