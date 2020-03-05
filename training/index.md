@@ -10,7 +10,12 @@ summary:Details of all our face-to-face and online training courses and resource
 <section id="service">
   <div class="container">
 	
-
+    <div class="row">	
+      <div class="section-title">
+        <h2>ARCHER2 Training</h2>
+        <p>Details of all our face-to-face and online training courses.</p>
+      </div>
+    </div>
 					
 			
     <div class="row ">
