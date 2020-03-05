@@ -2,7 +2,7 @@
 layout: post
 title: 14th October 2019 UKRI Announcement
 subtitle: ARCHER2 Hardware News
-date: 2019-10-14 
+date: 2019-10-14 12:00:00
 author: UKRI
 ---
 
