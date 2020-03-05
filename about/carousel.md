@@ -1,0 +1,74 @@
+---
+layout: section
+title: Carousel test
+summary: see what happens
+---
+
+
+# start here
+
+
+<!-- Content Start -->
+<section id="headlines">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        {% if site.data.headlines.size > 0 %}
+        <div class="testimonial-carousel">
+          <div id="headline-slider" class="owl-carousel">
+            {% for tm in site.data.headlines %}
+            <div>
+                <img src="img/cotation.png" alt="IMG">
+                <p>{{ tm.headline }}</p>
+                <div class="user">
+                  <img src="{{ tm.image }}" alt="People">
+                  <p><span>{{ tm.name }}</span> {{ tm.title }}</p>
+                </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+# end of first test
+
+
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="../img/10_Entry_800.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="../img/12_Entry_800.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="../img/05_Entry_800.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+# try it here
+
+$('.carousel').carousel()
+
+shoud be done
