@@ -69,7 +69,7 @@ summary: Information about the ARCHER2 facility
       </div>      
       <div class="col-sm-6 col-md-3">
         <div class="service-item-tall">
-          <h4><a href="./community/">ARCHER2 Community</a></h4>
+          <h4><a href="../community/">ARCHER2 Community</a></h4>
           <p>ARCHER2 in a wider context </p>
         </div>
       </div>
