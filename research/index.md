@@ -1,7 +1,7 @@
 ---
 layout: section
-title: Science
-summary: How ARCHER2 contributes to success
+title: Research
+summary: The successful research work completed on ARCHER2 and how this is facilitated.
 ---
 
 
@@ -9,16 +9,9 @@ summary: How ARCHER2 contributes to success
 <section id="service">
   <div class="container">
 	
-    <div class="row">	
-      <div class="section-title">
-        <h2>Science</h2>
-        <p>The successful research work completed on ARCHER2 and how this is facilitated.</p>
-      </div>
-    </div>
-					
+				
 			
-    <div class="row ">
-		
+    <div class="row ">		
       <div class="col-sm-6 col-md-3">
         <div class="service-item-tall">
           <h4><a href="case-studies/">Case Studies</a></h4>

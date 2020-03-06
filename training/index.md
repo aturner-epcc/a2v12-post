@@ -13,8 +13,7 @@ summary: Details of all our face-to-face and online training courses and resourc
 
 					
 			
-    <div class="row ">
-		
+    <div class="row ">		
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <h4><a href="#upcoming-training">Upcoming Courses</a></h4>

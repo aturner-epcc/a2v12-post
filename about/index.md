@@ -9,12 +9,7 @@ summary: Information about the ARCHER2 facility
 <!-- Service Start -->
 <section id="service">
   <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>ARCHER2</h2>
-        <p>ARCHER2 is the follow-on service to <a href="http://archer.ac.uk">ARCHER</a>, the UK National Supercomputing Facility</p>
-      </div>
-    </div>
+
 
     <div class="row ">
       <div class="col-sm-6 col-md-3">

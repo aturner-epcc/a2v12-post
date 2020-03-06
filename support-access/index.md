@@ -8,12 +8,7 @@ summary: How to get assistance with using ARCHER2 facility and obtaining access.
 <section id="service">
   <div class="container">
 	
-    <div class="row">	
-      <div class="section-title">
-        <h2>Support and Access</h2>
-        <p>User Support and how to obtain access to ARCHER2.</p>
-      </div>
-    </div>
+
 					
 			
     <div class="row ">
