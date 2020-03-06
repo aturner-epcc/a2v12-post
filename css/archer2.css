@@ -279,7 +279,7 @@ header .navbar-default .navbar-nav li a {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
     color: #262626;
     text-decoration: none;
-    background-color: #f9ebf7;
+    background-color: #ecf0db;
 	border-radius: 6px;
 }
 
