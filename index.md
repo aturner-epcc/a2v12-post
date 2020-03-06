@@ -27,12 +27,7 @@ permalink: /
 <!-- Service Start -->
 <section id="service">
   <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>ARCHER2</h2>
-        <p>UK National HPC Service</p>
-      </div>
-    </div>
+
 		
     <div class="row ">
       <div class="col-sm-6 col-md-2">
