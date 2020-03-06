@@ -10,6 +10,34 @@ summary: ARCHER2 Training Courses
 
 ##  Outline Course Descriptions
 
+<a href="#level1">Introductory (level 1) courses</a>
+
+* [Data Carpentry](data_carpentry)
+* [HPC Carpentry](hpc_carpentry)
+    Software Carpentry
+    Package Use on ARCHER2
+    Data Science on ARCHER2
+* [Development on ARCHER2](development)
+    Introduction to Application X
+
+<a href="#level2">Intermediate (level 2) courses</a>
+
+    Understanding Package Performance
+    Data Analysis using Python
+    Containers for HPC
+    Data Analytics with HPC
+    Message Passing Programming with MPI
+    Shared Memory Programming with OpenMP
+
+<a href="#level3">Advanced (level 3) courses</a>
+
+    Advanced Use of Package A
+    Efficient Parallel IO
+    Performance Optimisation on AMD EPYC
+    Performance Analysis Workshop
+
+
+<p><a name="level1">&nbsp;</a></p>
 ### Introductory (level 1) courses
 
 <p><a name="data_carpentry">&nbsp;</a></p>
@@ -36,8 +64,24 @@ This course provides an introduction to High Performance Computing (HPC). After 
 
 Software Carpentry's goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. In this two-day workshop, short tutorials will alternate with hands-on practical exercises. Participants will be encouraged both to help one another, and to apply what they have learned to their own research problems during and between sessions. 
 
-<p><a name="intermediate">&nbsp;</a></p>
+<p><a name="package_use">&nbsp;</a></p>
+#### Package Use on ARCHER2
+
+This course will cover efficient use of pre-installed research software packages on ARCHER2. This will include the essentials of the ARCHER2 service and explain how pre-installed software packages can be used. We will run this both online and face-to-face and both of these will have practical exercises to complete.
+
+<p><a name="data_science">&nbsp;</a></p>
+#### Data Science on ARCHER2
+
+This course will cover the essentials of ARCHER2, the basic use of core data science packages (e.g. R, Pandas), and data handling best practice.
+
+#### Development on ARCHER2
+
+This course will cover the ARCHER2 application development environment, core parallel and scientific software libraries, available debugging and profiling tools. This will be available both online and face-to-face course to suit the needs of attendees.
+
+
+
+<p><a name="level2">&nbsp;</a></p>
 ### Intermediate (level 2) courses
 
-<p><a name="advanced">&nbsp;</a></p>
+<p><a name="level3">&nbsp;</a></p>
 ### Advanced (level 3) courses
