@@ -10,12 +10,6 @@ summary: How to get acccess to the ARCHER2 facility
 <section id="service">
   <div class="container">
 	
-    <div class="row">	
-      <div class="section-title">
-        <h2>Support and Access</h2>
-        <p>User Support and how to obtain access to ARCHER2.</p>
-      </div>
-    </div>
 					
 			
     <div class="row ">
@@ -61,6 +55,6 @@ summary: How to get acccess to the ARCHER2 facility
 
 <p><a name="get-access">&nbsp;</a><p>
 
-# Getting Access #
+# Getting Access 
 
 Details on the access routes to ARCHER2 will be announced soon.
