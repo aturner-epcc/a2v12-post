@@ -10,7 +10,8 @@ summary: ARCHER2 Training Courses
 
 ##  Outline Course Descriptions
 
-<a href=introductory">Introductory (level 1) courses</a>
+<a href="#introductory">&nbsp;</a>
+### Introductory (level 1) courses
 
 * [Data Carpentry](#data_carpentry)
 * [HPC Carpentry](#hpc_carpentry)
@@ -18,9 +19,10 @@ summary: ARCHER2 Training Courses
 * [Package Use on ARCHER2](#package_use)
 * [Data Science on ARCHER2](#data_science)
 * [Development on ARCHER2](#development)
-    Introduction to Application X
 
-<a href="#intermediate">Intermediate (level 2) courses</a>
+
+<a href="#intermediate">&nbsp;</a>
+### Intermediate (level 2) courses
 
 * [Understanding Package Performance](#understanding_package_performance)
 * [Data Analysis using Python](#data_analysis_using_python)
@@ -29,7 +31,8 @@ summary: ARCHER2 Training Courses
 * [Message Passing Programming with MPI](#mpp_with_mpi)
 * [Shared Memory Programming with OpenMP](#openmp)
 
-<a href="#advanced">Advanced (level 3) courses</a>
+<a href="#advanced">&nbsp;</a>
+### Advanced (level 3) courses
 
 * [Efficient Parallel IO](#efficient_parallel_io)
 * [Performance Optimisation on AMD EPYC](#performance_optimisation_on_amd_epyc)
