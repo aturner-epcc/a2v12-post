@@ -4,13 +4,11 @@ title: ARCHER2 Service Calendar
 summary: This calendar lists events associated with the ARCHER2 service, including: training, call deadlines and planned maintenance sessions.
 ---
 
+### ARCHER2 Calendar
 
-
-*	[iCal Format](https://www.google.com/calendar/ical/archer2.hpc%40gmail.com/public/basic.ics)
-*	[XML format](https://www.google.com/calendar/feeds/archer2.hpc%40gmail.com/public/basic)
-*	[HTML Format](https://www.google.com/calendar/embed?src=archer2.hpc%40gmail.com&ctz=Europe/London)
-
-
+* [iCal Format](https://www.google.com/calendar/ical/archer2.hpc%40gmail.com/public/basic.ics)
+* [XML format](https://www.google.com/calendar/feeds/archer2.hpc%40gmail.com/public/basic)
+* [HTML Format](https://www.google.com/calendar/embed?src=archer2.hpc%40gmail.com&ctz=Europe/London)
 
 
 
