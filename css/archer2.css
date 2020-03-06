@@ -145,7 +145,7 @@ header .navbar-default .navbar-nav li a {
 }
 
 
-#service .service-item{
+#service .service-item {
  padding: 1px 10px 30px 10px;
 border:  6px double #51baa0;
 border-radius: 12px;
@@ -154,7 +154,7 @@ height: 90px
 }
 
 
-#service .service-item-tall{
+#service .service-item-tall {
  padding: 1px 10px 30px 10px;
 border:  6px double #51baa0;
 border-radius: 12px;
@@ -162,7 +162,7 @@ margin: 10px auto 10px auto;
 height: 180px
 }
 
-#service .service-item-borderless{
+#service .service-item-borderless {
  padding: 10px 10px 30px 10px;
 border:  0px double #51baa0;
 }
@@ -286,5 +286,5 @@ header .navbar-default .navbar-nav li a {
 
 /*--
 	end of Navbar Css
---*/
+--*/	
 
