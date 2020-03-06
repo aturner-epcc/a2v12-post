@@ -44,13 +44,13 @@ permalink: /
 			
       <div class="col-sm-6 col-md-2">
         <div class="service-item-tall">
-          <h4><a href="/about/news-events/">News</a></h4>
+          <h4><a href="about/news-events/">News</a></h4>
           <p>News feed, user mailings, blog posts </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-2">
         <div class="service-item-tall">
-          <h4><a href="/training/">Training</a></h4>
+          <h4><a href="training/">Training</a></h4>
           <p>Upcoming Training Opportunities </p>
         </div>
       </div>
