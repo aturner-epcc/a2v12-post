@@ -1,7 +1,7 @@
 ---
 layout: section
 title: ARCHER2 Service Calendar
-summary: This calendar lists events associated with the ARCHER2 service, including: training, call deadlines and planned maintenance sessions.
+summary: This calendar lists events associated with the ARCHER2 service, including training, call deadlines and planned maintenance sessions.
 ---
 
 ### ARCHER2 Calendar
