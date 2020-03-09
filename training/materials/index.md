@@ -4,7 +4,7 @@ title: ARCHER2 Training Materials
 summary: Training 
 ---
 
-# ARCHER2 Training Materials #
+
 
 ## 2020
 
