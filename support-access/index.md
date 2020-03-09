@@ -22,7 +22,7 @@ summary: How to get assistance with using ARCHER2 facility and obtaining access.
 			
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <h4><a href="helpdesk.html">Helpdesk</a></h4>
+          <h4><a href="servicedesk.html">Service Desk</a></h4>
           <p></p>
         </div>
       </div>		
@@ -78,9 +78,9 @@ summary: How to get assistance with using ARCHER2 facility and obtaining access.
 
 ARCHER2 users are supported in a number of ways. Below please find the links to the available resources.
 
-### ARCHER Helpdesk
+### ARCHER Service Desk
 
-Through the helpdesk you can ask for help and information about all aspects of the service. [Further information on Helpdesk](helpdesk.html).
+Through the service desk you can ask for help and information about all aspects of the service. [Further information on Service Desk](servicedesk.html).
 
 
 
