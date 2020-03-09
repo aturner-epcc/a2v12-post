@@ -1,5 +1,5 @@
 ---
-layout: section2
+layout: page
 title: ARCHER2 Page Heading
 summary: Detailed sub heading for this page
 banner: 01
