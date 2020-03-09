@@ -1,8 +1,8 @@
 ---
 layout: section
-title: ARCHER2 eCSE Call
-summary: ARCHER eCSE Call
+title: ARCHER2 Embedded CSE (eCSE) support Call
+summary: Details of upcoming and open calls
 ---
 
-# ARCHER2 Embedded CSE (eCSE) support Call
+Details to follow soon.
 
