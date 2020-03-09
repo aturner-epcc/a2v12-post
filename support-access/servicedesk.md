@@ -23,6 +23,8 @@ Edinburgh EH8 9BT
 
 Please try and provide as much background information as possible as this will speed up the processing time considerably. Existing ARCHER2 users will be asked for their user ID, project code, and, where applicable, the commands they are using and the error message they get.
 
+For more complex queries a support callback may be booked with a member of the support team to discuss your issue.  This may be done via Skype or telephone.
+
 ## How the Service Desk ticket system works
 
 When a query is submitted by email or through the SAFE, it is placed in the SAFE query system. Phone queries are entered into the system by the Service Desk operator.
