@@ -51,10 +51,8 @@ summary: How to get acccess to the ARCHER2 facility
 
 
 
-
-
 <p><a name="get-access">&nbsp;</a><p>
 
-# Getting Access 
+<h2> Getting Access </h2>
 
 Details on the access routes to ARCHER2 will be announced soon.
