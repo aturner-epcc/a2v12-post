@@ -17,9 +17,10 @@ We are using this information about you because it is necessary for the performa
 
 We will hold the personal data you provide us throughout the period that you have service accounts managed by the SAFE or are a manager of an ongoing project within the SAFE. Otherwise we will retain this data for a period of up to 2 years. Any data held beyond this point will be anonymised.
 
-In addition, emails and other information communicated to our helpdesk may be retained to allow us to provide a better helpdesk service. We will not retain such information longer than 2 years after the end of the service they relate to.
+In addition, emails and other information communicated to our service desk may be retained to allow us to provide a better service desk service. We will not retain such information longer than 2 years after the end of the service they relate to.
 
-If you have any questions, please contact The [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
+If you have any questions, please contact The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
+
 
 This Privacy Statement is continued at [edin.ac/privacy](http://edin.ac/privacy)
 

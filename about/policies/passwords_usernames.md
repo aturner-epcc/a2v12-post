@@ -40,6 +40,7 @@ Usernames are standardised and the rules governing them are:
 * Must not be the same as a groupname on ARCHER
 
 
-If you have any questions about the choice of passwords OR usernames on ARCHER2, please contact The [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
+If you have any questions about the choice of passwords OR usernames on ARCHER2, please contact The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
+
 
 

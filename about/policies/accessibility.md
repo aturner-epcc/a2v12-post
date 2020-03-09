@@ -50,11 +50,11 @@ No updates to date.
 ### If you require this policy document in an alternative format
 If you require this policy document in an alternative format please contact
 
-The [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk)
+The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk)
 
 *    email : support@archer2.ac.uk
 *    telephone : 0131 650 5000
 
-If you have any issues accessing this website, please contact the [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk)
+If you have any issues accessing this website, please contact the [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk)
 
 This article was published on 26th February 2020.

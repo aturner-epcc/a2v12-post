@@ -50,4 +50,4 @@ Before accepting the Terms and Conditions, please note: you can change any of th
 
 These Terms and Conditions are governed by the laws of England and the English courts.
 
-If you have any questions about these Terms and Conditions, please mail to the[ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
+If you have any questions about these Terms and Conditions, please mail to the [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).

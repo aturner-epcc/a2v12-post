@@ -24,4 +24,4 @@ We would not be able to fulfil our contract to administer the service properly, 
 
 We may retain the data that we gather on the system for the duration of the ARCHER service. Data that could be used to identify you directly will not be retained longer than two years after the end of the service.
 
-If you have any questions about the treatment of your personal data, please contact [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
+If you have any questions about the treatment of your personal data, please contact [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).

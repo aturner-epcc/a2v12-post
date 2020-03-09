@@ -90,7 +90,8 @@ summary: Details of all our face-to-face and online training courses and resourc
 
 The list below shows the currently scheduled ARCHER2 courses. Please follow the links in the list to find out more about the courses and to register.
 
-If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
+If you would like us to provide a course on a particular topic and/or in a particular location then please contact us via the [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
+
 
 ### Upcoming Courses
 

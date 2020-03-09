@@ -17,4 +17,4 @@ When you sign up to the SAFE you will need to agree to the following acceptable 
 *    Do not apply for HPC service access on behalf of other people.
 *    If you manage a project within the SAFE then, to allow you to do this, you will be given access to some personal data about members and applicants to the project. You are legally required to obey the relevant data protection legislation and not use this data for other purposes.
 
-If you have any questions, please contact The [ ARCHER2 Helpdesk]({{ site.url }}{{ site.baseurl }}/support-access/helpdesk).
+If you have any questions, please contact The [ ARCHER2 Service Desk]({{ site.url }}{{ site.baseurl }}/support-access/servicedesk).
