@@ -2,7 +2,7 @@
 layout: page
 title: ARCHER2 Page Heading
 summary: Detailed sub heading for this page
-banner: web_banners_01.jpg
+banner: web_banners_02.jpg
 ---
 
 
