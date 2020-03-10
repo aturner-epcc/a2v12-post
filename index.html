@@ -39,6 +39,13 @@ permalink: /
         <div class="service-item-tall">
           <h4><a href="about/news-events/">News</a></h4>
           <p>News feed, user mailings, blog posts </p>
+          <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+        </ul>
         </div>
       </div>
       <div class="col-sm-6 col-md-2">

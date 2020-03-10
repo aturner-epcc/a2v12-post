@@ -4,9 +4,8 @@ title: 15th April 2019 UKRI Announcement
 subtitle: Funding announced for next national supercomputer, ARCHER2.
 date: 2019-04-15 12:00:00
 author: UKRI
+categories: [news]
 ---
-
-
 
 Dear ARCHER Users,
 
