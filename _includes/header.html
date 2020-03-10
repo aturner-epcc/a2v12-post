@@ -111,9 +111,22 @@
 		<img src="{{ site.baseurl }}/img/banners/{ page.banner }" alt="Banner Image">
 	  {% else %}
 		<img src="{{ site.baseurl }}/img/banners/web_banners_01.jpg" alt="Banner Image">
-	  {% endif %}
-
+	  {% endif %} 
 	</div>	
+	
+	<div class="global-titles">
+	  {% if page.title %}
+	    <h1>{page.title}</h1>
+	  {% else %}
+        <h1>Page Title</h1>
+	  {% endif %}
+	  
+	  {% if page.summary %}
+	    <p>{page.summary}</p>
+	  {% endif %}	  
+		
+	</div>
+		  
 </div>	
 </div>
 

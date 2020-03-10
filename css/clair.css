@@ -25,4 +25,14 @@
 
 #banner-image {
 	width: 100%;
+	padding-top: 15px;
+}
+
+#global-titles .block h1 {
+    font-weight: 100;
+    font-size: 45px;
+    letter-spacing: 6px;
+    padding-bottom: 15px;
+    margin-top: 0;
+	text-transform: none;
 }
